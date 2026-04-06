@@ -1,6 +1,6 @@
 # Hi, I'm Shahmeer
 
-Incoming BA Joint Honours Mathematics & Computer Science student at **McGill University** (Fall 2026), with a Minor in Linguistics. Worked on and interested in ML Theory and Competitive Mathematics
+Incoming BA Joint Honours Mathematics & Computer Science student at **McGill University** (Fall 2026), with a Minor in Linguistics. Worked on and interested in ML Theory and Competitive Mathematics.
 
 Living in Montreal (QC, Canada) and Islamabad (ICT, Pakistan)
 
